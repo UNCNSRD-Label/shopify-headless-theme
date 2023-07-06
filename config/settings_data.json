@@ -1,6 +1,13 @@
 {
   "current": {
     "storefront_hostname": "uncnsrdlabel.com",
+    "colors_solid_button_labels": "#0a0a0a",
+    "colors_accent_1": "{{ shop.brand.colors.primary[0].background }}",
+    "colors_accent_2": "{{ shop.brand.colors.secondary[0].background }}",
+    "colors_text": "#d4d4d4",
+    "colors_outline_button_labels": "#d4d4d4",
+    "colors_background_1": "#0a0a0a",
+    "colors_background_2": "#262626",
     "content_for_index": [
 
     ],
