@@ -13,7 +13,7 @@
     "favicon": "shopify:\/\/shop_images\/logomark.svg",
     "checkout_header_image": "shopify:\/\/shop_images\/Shopify_Checkout_Banner.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/logotype-white.svg",
-    "checkout_body_background_color": "#0a0a0a",
+    "checkout_body_background_color": "#111111",
     "checkout_input_background_color_mode": "transparent",
     "checkout_sidebar_background_color": "#262626",
     "checkout_accent_color": "#ff4dd8",
